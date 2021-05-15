@@ -2,8 +2,9 @@
 
 ## Codigo Practica 1.
 Codigo en C.
-
-![](/codigo1.png)
+![](/codigo5.png)
+Codigo en Ensamblador
+![](/codigo6.png)
 
 ## Ejecucion Practica1.
 ![](/codigo2.png)
