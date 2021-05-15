@@ -1,9 +1,9 @@
 # EvidenciasU3
 
 ## Codigo Practica 1.
-Codigo en C.
+## Codigo en C.
 ![](/codigo5.png)
-Codigo en Ensamblador
+## Codigo en Ensamblador
 ![](/codigo6.png)
 
 ## Ejecucion Practica1.
