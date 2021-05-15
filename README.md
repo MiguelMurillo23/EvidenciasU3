@@ -10,7 +10,10 @@
 ![](/codigo7.png)
 
 ## Codigo Practica2.
-![](/codigo3.png)
+## Codigo en C.
+![](/codigo8.png)
+## Codigo en Ensamblador.
+![](/codigo9.png)
 
 ## Ejecucion Practica2.
-![](/codigo4.png)
+![](/codigo10.png)
