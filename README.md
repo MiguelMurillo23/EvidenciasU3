@@ -7,7 +7,7 @@
 ![](/codigo6.png)
 
 ## Ejecucion Practica1.
-![](/codigo2.png)
+![](/codigo7.png)
 
 ## Codigo Practica2.
 ![](/codigo3.png)
